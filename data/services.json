@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "key": "home",
+      "label": "Home & Maintenance",
+      "icon": "\ud83e\uddf0"
+    },
+    {
+      "key": "clean",
+      "label": "Cleaning & Lifestyle",
+      "icon": "\ud83e\uddf9"
+    },
+    {
+      "key": "tech",
+      "label": "Tech & Digital",
+      "icon": "\ud83d\udcbb"
+    },
+    {
+      "key": "auto",
+      "label": "Automotive",
+      "icon": "\ud83d\ude97"
+    },
+    {
+      "key": "care",
+      "label": "Personal & Family Care",
+      "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67"
+    },
+    {
+      "key": "biz",
+      "label": "Business & Property",
+      "icon": "\ud83c\udfe2"
+    }
+  ]
+}
