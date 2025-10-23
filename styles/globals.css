@@ -1,1 +1,10 @@
-body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif} :root{--emerald:#2ECC71} .container{max-width:1120px;margin:0 auto;padding:16px} .btn{background:#2ECC71;color:#fff;border:none;border-radius:12px;padding:10px 14px} .card{border:1px solid #eee;border-radius:20px;padding:16px;background:#fff} .muted{color:#667085}
+/* --- Tailwind entry points (must be at the very top) --- */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Your custom CSS can live below --- */
+body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+:root{--emerald:#2ECC71}
+.container{max-width:1120px;margin:0 auto;padding:16px}
+.btn{background:#2ECC71;color:#fff;border:none;border-radius:12px;padding:12px 16px;font-weight:700;cursor:pointer}
